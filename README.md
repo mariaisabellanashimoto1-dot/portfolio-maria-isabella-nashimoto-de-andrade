@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BLxmk5L%2FhTfCjymcXxUi1MA%3D%3D)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaisabellanashimoto1@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
@@ -13,9 +13,9 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL].
+* **Habilidades Técnicas:** Python, Java, SQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei em [Projeto TechGirls onde desenvolvi [resultado principal].
  
 ---
  
