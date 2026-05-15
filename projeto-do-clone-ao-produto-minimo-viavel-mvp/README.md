@@ -13,7 +13,7 @@ O **Pixels Ocultos** é uma ferramenta forense digital poderosa projetada para e
 Utilizando motores de extração de alto desempenho como o **ExifReader** e análise de cor via **ColorThief**, a plataforma decompõe arquivos para revelar dados de geolocalização (GPS), especificações de hardware da câmera, perfis de cores e tags XMP/IPTC que normalmente permanecem ocultas ao usuário comum.
 
 ---
-![Interface Principal](./public/images/dashboard-main.png)
+![Interface Principal](.imagem/imagem1.png)
 *Figura 1: Interface principal do Pixels Ocultos com análise de imagem e painel de metadados.*
 
 ## 🚀 Tecnologias Utilizadas
@@ -30,14 +30,14 @@ O projeto foi estruturado para fornecer uma auditoria completa de arquivos digit
 * **Extração Profunda (Full EXIF):** Leitura exaustiva de metadados, incluindo coordenadas GPS com integração direta para visualização de localidade.
 * **Detecção Assistida por IA:** Integração com Gemini AI para análise de conteúdo, identificação de objetos e sugestões de autenticidade baseadas em contexto visual.
 
-![Análise Técnica](./public/images/metadata-analysis.png)
+![Análise Técnica](.imagem/imagem2.png)
 *Figura 2: Detalhamento técnico de metadados e histograma de cores dominantes.*
 
 * **Histogramas de Cor Dinâmicos:** Visualização da paleta dominante e distribuição cromática para análise de composição e possíveis edições.
 * **Histórico de Análise Persistente:** Sincronização em tempo real via Firestore, permitindo que usuários autenticados acessem auditorias passadas de qualquer dispositivo.
 * **Relatórios PDF Profissionais:** Geração instantânea de documentação técnica contendo todos os metadados extraídos para fins de arquivamento ou investigação.
 
-![IA Forense](./public/images/ai-forensics.png)
+![IA Forense](.imagem/imagem3.png)
 *Figura 3: Auditoria assistida por IA identificando anomalias e descrevendo o contexto da cena.*
 
 ## 🔧 Como Executar
