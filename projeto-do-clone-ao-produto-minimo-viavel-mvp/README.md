@@ -54,4 +54,4 @@ O projeto foi estruturado para fornecer uma auditoria completa de arquivos digit
    ```
 
 ---
-[Voltar ao topo](#-pixels-ocultos-advanced-metadata--media-forensics-dashboard)
+[Voltar ao início](https://github.com/mariaisabellanashimoto1-dot/portfolio-maria-isabella-nashimoto-de-andrade)
