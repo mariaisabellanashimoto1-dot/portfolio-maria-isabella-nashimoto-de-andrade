@@ -49,6 +49,25 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
+
+portfolio-maria-isabella-nashimoto-de-andrade/
+│
+│
+├── README.md                                         
+│
+├── projeto-laboratorio-de-classificacao-visual/      ← IA: Classificação Visual & Viés Algorítmico
+│   ├── src/
+│   ├── README.md
+│   └── ...
+│
+├── projeto-laboratorio-de-engenharia-reversa/        ← IA: Engenharia Reversa Full-Stack com Gemini
+│   ├── src/
+│   ├── README.md
+│   └── ...
+│
+└── projeto-do-clone-ao-produto-minimo-viavel-mvp/    ← MVP+: Produto Autoral com Firebase
+    ├── src/
+    ├── README.md
+    └── ...
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+
