@@ -1,0 +1,5 @@
+{
+  "name": "Remix: ExifInfo Clone",
+  "description": "A high-performance clone of exifinfo.org for analyzing and displaying media metadata.",
+  "requestFramePermissions": []
+}
