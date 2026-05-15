@@ -49,7 +49,7 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
-
+'''
 portfolio-maria-isabella-nashimoto-de-andrade/
 │
 │
@@ -69,5 +69,6 @@ portfolio-maria-isabella-nashimoto-de-andrade/
     ├── src/
     ├── README.md
     └── ...
+ '''
  
 
