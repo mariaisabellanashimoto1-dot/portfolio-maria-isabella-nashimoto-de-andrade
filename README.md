@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
  
 * **Habilidades Técnicas:** Python, Java, SQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
