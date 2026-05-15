@@ -168,3 +168,6 @@ predictions.forEach(({ className, probability }) => {
 ---
 
 *Modelo gerado com Google Teachable Machine — [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)*
+
+---
+[Voltar ao início](https://github.com/mariaisabellanashimoto1-dot/portfolio-maria-isabella-nashimoto-de-andrade)
