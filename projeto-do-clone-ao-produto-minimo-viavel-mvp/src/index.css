@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+    --font-heading: "Outfit", sans-serif;
+    --font-sans: "Outfit", sans-serif;
+    --font-mono: "JetBrains Mono", monospace;
+
+    --color-app-bg: var(--app-bg);
+    --color-app-card: var(--app-card);
+    --color-app-border: var(--app-border);
+    --color-app-purple: var(--app-purple);
+    --color-app-purple-dark: var(--app-purple-dark);
+    --color-app-purple-light: var(--app-purple-light);
+    --color-app-text: var(--app-text);
+    --color-app-text-muted: var(--app-text-muted);
+
+    --color-sidebar-ring: var(--sidebar-ring);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar: var(--sidebar);
+    --color-chart-5: var(--chart-5);
+    --color-chart-4: var(--chart-4);
+    --color-chart-3: var(--chart-3);
+    --color-chart-2: var(--chart-2);
+    --color-chart-1: var(--chart-1);
+    --color-ring: var(--ring);
+    --color-input: var(--input);
+    --color-border: var(--border);
+    --color-destructive: var(--destructive);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-accent: var(--accent);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-muted: var(--muted);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-secondary: var(--secondary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-primary: var(--primary);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-popover: var(--popover);
+    --color-card-foreground: var(--card-foreground);
+    --color-card: var(--card);
+    --color-foreground: var(--foreground);
+    --color-background: var(--background);
+    --radius-sm: calc(var(--radius) * 0.6);
+    --radius-md: calc(var(--radius) * 0.8);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) * 1.4);
+    --radius-2xl: calc(var(--radius) * 1.8);
+    --radius-3xl: calc(var(--radius) * 2.2);
+    --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+    --app-bg: #ffffff;
+    --app-card: #f8fafc;
+    --app-border: #e2e8f0;
+    --app-purple: #7c3aed; /* Standard Purple for Light Mode */
+    --app-purple-dark: #5b21b6;
+    --app-purple-light: #a78bfa;
+    --app-text: #0f172a;
+    --app-text-muted: #64748b;
+
+    --background: #ffffff;
+    --foreground: #0f172a;
+    --card: #f8fafc;
+    --card-foreground: #0f172a;
+    --popover: #ffffff;
+    --popover-foreground: #0f172a;
+    --primary: #7c3aed;
+    --primary-foreground: #ffffff;
+    --secondary: #f1f5f9;
+    --secondary-foreground: #0f172a;
+    --muted: #f1f5f9;
+    --muted-foreground: #64748b;
+    --accent: #f1f5f9;
+    --accent-foreground: #0f172a;
+    --destructive: #ef4444;
+    --border: #e2e8f0;
+    --input: #e2e8f0;
+    --ring: #7c3aed;
+    --radius: 0.75rem;
+}
+
+.dark {
+    --app-bg: #0a0a0c;
+    --app-card: #121217;
+    --app-border: #1f1f27;
+    --app-purple: #a855f7; /* More Vibrant Purple for Dark Mode */
+    --app-purple-dark: #7e22ce;
+    --app-purple-light: #d8b4fe;
+    --app-text: #f4f4f5;
+    --app-text-muted: #a1a1aa;
+
+    --background: #0a0a0c;
+    --foreground: #f4f4f5;
+    --card: #121217;
+    --card-foreground: #f4f4f5;
+    --popover: #121217;
+    --popover-foreground: #f4f4f5;
+    --primary: #a855f7;
+    --primary-foreground: #ffffff;
+    --secondary: #1f1f27;
+    --secondary-foreground: #f4f4f5;
+    --muted: #1f1f27;
+    --muted-foreground: #a1a1aa;
+    --accent: #a855f7;
+    --accent-foreground: #ffffff;
+    --destructive: #ef4444;
+    --border: #1f1f27;
+    --input: #1f1f27;
+    --ring: #a855f7;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-app-bg text-app-text font-sans antialiased transition-colors duration-300;
+  }
+}
