@@ -30,7 +30,7 @@ O projeto foi estruturado para fornecer uma auditoria completa de arquivos digit
 * **Extração Profunda (Full EXIF):** Leitura exaustiva de metadados, incluindo coordenadas GPS com integração direta para visualização de localidade.
 * **Detecção Assistida por IA:** Integração com Gemini AI para análise de conteúdo, identificação de objetos e sugestões de autenticidade baseadas em contexto visual.
 
-![Análise Técnica](./imagem/imagem2.png)
+![Análise Técnica](./imagem/imagem2.jpeg)
 *Figura 2: Detalhamento técnico de metadados e histograma de cores dominantes.*
 
 * **Histogramas de Cor Dinâmicos:** Visualização da paleta dominante e distribuição cromática para análise de composição e possíveis edições.
