@@ -49,11 +49,10 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
-'''
+```
 portfolio-maria-isabella-nashimoto-de-andrade/
 │
-│
-├── README.md                                         
+├── README.md                                         ← Apresentação principal (você está aqui)
 │
 ├── projeto-laboratorio-de-classificacao-visual/      ← IA: Classificação Visual & Viés Algorítmico
 │   ├── src/
@@ -69,6 +68,6 @@ portfolio-maria-isabella-nashimoto-de-andrade/
     ├── src/
     ├── README.md
     └── ...
- '''
+```
  
 
