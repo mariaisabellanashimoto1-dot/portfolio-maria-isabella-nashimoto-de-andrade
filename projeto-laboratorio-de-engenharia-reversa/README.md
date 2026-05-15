@@ -12,7 +12,7 @@ O **ExifInfo** é uma ferramenta de alta performance para extração e análise 
 Diferente de ferramentas server-side, o ExifInfo prioriza a **privacidade**, processando arquivos diretamente no navegador do usuário utilizando bibliotecas de baixo nível, garantindo que dados sensíveis de localização (GPS) ou autor não deixem a máquina local sem necessidade.
 
 ---
-![Dashboard ExifInfo](./image/image1.png)
+![Dashboard ExifInfo](./imagem/imagem1.png)
 *Figura 1: Interface de análise com suporte a diversos grupos de tags (EXIF, XMP, IPTC, JFIF).*
 
 ## 🚀 Tecnologias Utilizadas
@@ -31,7 +31,7 @@ O projeto foi estruturado para ser uma ferramenta de diagnóstico rápida e prec
 * **Privacidade Local:** Processamento de arquivos via `FileReader` e `ArrayBuffer`, eliminando o upload desnecessário para servidores externos.
 * **Visualizador de Thumbnail:** Recuperação de miniaturas embutidas (`Embedded Thumbnails`) para visualização rápida sem carregar o arquivo em resolução total.
 
-![Análise de Mídia](./image/image1.png)
+![Análise de Mídia](./imagem/imagem2.png)
 *Figura 2: Detalhamento de grupos técnicos e visualização de megapixels calculados em tempo real.*
 
 ## 🔧 Como Executar
@@ -41,8 +41,7 @@ O projeto foi estruturado para ser uma ferramenta de diagnóstico rápida e prec
 4. Execute o servidor de desenvolvimento: `npm run dev`.
 5. Abra o navegador em `http://localhost:3000`.
 
-![Pipeline de Metadados](./image/image1.png)
-*Figura 3: Fluxo de dados desde o arraste de arquivo até a normalização de tags no motor ExifInfo.*
+
 
 ---
 [Voltar ao início](https://github.com/profdiegocarvalho/portfolio-arthur-correia-carvalho)
