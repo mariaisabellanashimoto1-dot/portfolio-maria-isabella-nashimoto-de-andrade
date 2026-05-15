@@ -15,7 +15,7 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
  
 * **Habilidades Técnicas:** Python, Java, SQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto TechGirls onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei em [Projeto TechGirls onde ensinei fundamentos básicos de desenvolvimento web (HTML e CSS) para o público feminino].
  
 ---
  
